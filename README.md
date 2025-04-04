@@ -13,3 +13,6 @@ Developer Tools: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for
 Libraries/Frameworks: ![Spring Boot](https://img.shields.io/badge/Spring_Boot-28A745?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 [![](https://visitcount.itsvg.in/api?id=azeidan11&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+![snake gif](https://github.com/azeidan11/azeidan11/blob/output/github-snake-dark.svg)
