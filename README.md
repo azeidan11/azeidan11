@@ -1,7 +1,7 @@
 # Hi 👋 I'm Adam Zeidan
 
 # 💫 About Me
-I’m a first-year Computer Science student at Saddleback College with strong enthusiasm for coding, diving into machine learning, and building reliable software solutions.  
+I’m a second-year Computer Science student at Saddleback College with strong enthusiasm for coding, diving into machine learning, and building reliable software solutions.  
 Passionate about creating AI-driven applications, full-stack development, and developing automation tools that solve real-world problems.
 
 ## 🌐 Socials
